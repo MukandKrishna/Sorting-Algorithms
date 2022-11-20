@@ -1,0 +1,48 @@
+Serial Burst Time: 4.000000
+Serial Execution Time: 1
+
+
+Serial Burst Time: 37.000000
+Serial Execution Time: 33
+
+
+Serial Burst Time: 2656.000000
+Serial Execution Time: 3375
+
+
+Serial Burst Time: 160351.000000
+Serial Execution Time: 233583
+
+
+Multi-threading Burst Time: 308.000000
+Multi-threading Execution Time: 321
+
+
+Multi-threading Burst Time: 347.000000
+Multi-threading Execution Time: 360
+
+
+Multi-threading Burst Time: 1815.000000
+Multi-threading Execution Time: 1836
+
+
+Multi-threading Burst Time: 94925.000000
+Multi-threading Execution Time: 174578
+
+
+OpenMP Burst Time: 101.000000
+OpenMP Execution Time: 97
+
+
+OpenMP Burst Time: 172.000000
+OpenMP Execution Time: 167
+
+
+OpenMP Burst Time: 2514.000000
+OpenMP Execution Time: 2813
+
+
+OpenMP Burst Time: 141579.000000
+OpenMP Execution Time: 182367
+
+

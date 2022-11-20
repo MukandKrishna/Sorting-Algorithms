@@ -1,0 +1,47 @@
+Burst Time Taken By Sequencial_Cocktail_Sort is 0.000014
+Total Time Taken By Sequencial_Cocktail_Sort is 5.000000
+
+Burst Time Taken By Sequencial_Cocktail_Sort is 0.000235
+Total Time Taken By Sequencial_Cocktail_Sort is 224.000000
+
+Burst Time Taken By Sequencial_Cocktail_Sort is 0.007580
+Total Time Taken By Sequencial_Cocktail_Sort is 7624.000000
+
+Burst Time Taken By Sequencial_Cocktail_Sort is 0.303808
+Total Time Taken By Sequencial_Cocktail_Sort is 303929.000000
+
+Burst Time Taken By Sequencial_Cocktail_Sort is 0.305959
+Total Time Taken By Sequencial_Cocktail_Sort is 306290.000000
+
+Burst Time Taken By Sequencial_Cocktail_Sort is 30.536140
+Total Time Taken By Sequencial_Cocktail_Sort is 30540239.000000
+
+Burst Time Taken By Multithreaded_Cocktail_Sort is 0.000250
+Time Taken By Multithreaded_Cocktail_Sort is 581.000000
+
+Burst Time Taken By Multithreaded_Cocktail_Sort is 0.000252
+Time Taken By Multithreaded_Cocktail_Sort is 568.000000
+
+Burst Time Taken By Multithreaded_Cocktail_Sort is 0.000545
+Time Taken By Multithreaded_Cocktail_Sort is 4550.000000
+
+Burst Time Taken By Multithreaded_Cocktail_Sort is 0.166282
+Time Taken By Multithreaded_Cocktail_Sort is 87387.000000
+
+Burst Time Taken By Multithreaded_Cocktail_Sort is 17.140585
+Time Taken By Multithreaded_Cocktail_Sort is 8624479.000000
+
+Burst Time Taken By OpenMp_Cocktail_Sort is 0.000329
+Time Taken By OpenMp_Cocktail_Sort is 199.000000
+
+Burst Time Taken By OpenMp_Cocktail_Sort is 0.001659
+Time Taken By OpenMp_Cocktail_Sort is 898.000000
+
+Burst Time Taken By OpenMp_Cocktail_Sort is 0.019954
+Time Taken By OpenMp_Cocktail_Sort is 12314.000000
+
+Burst Time Taken By OpenMp_Cocktail_Sort is 0.694836
+Time Taken By OpenMp_Cocktail_Sort is 347606.000000
+
+Burst Time Taken By OpenMp_Cocktail_Sort is 83.741206
+Time Taken By OpenMp_Cocktail_Sort is 41880211.000000
